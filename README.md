@@ -8,6 +8,7 @@
 
 3️⃣ **Customer Churn Prediction**
    - Explored customer data to forecast churn rates using advanced machine learning techniques, aiding in proactive customer retention strategies.
+
 4️⃣ **SMS Spam Detection**
    - Built a robust model to automatically detect and filter spam messages from SMS data, enhancing user experience and security.
    
